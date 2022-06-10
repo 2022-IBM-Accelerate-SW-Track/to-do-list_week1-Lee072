@@ -9,6 +9,7 @@ class Home extends Component {
     super();
     this.state = {
       // create your empty list here call it todos.
+      todos: [],
     };
   }
   // the addTodo function simply creates a new array that includes the user submitted todo item and then
