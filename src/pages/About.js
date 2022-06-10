@@ -19,7 +19,7 @@ export default class About extends Component {
     </div>
     <div className="split right">
       <div className="centered">
-        <div className="name_title">Your Name</div>
+        <div className="name_title">Mia Lee</div>
         <div className="brief_description">
         </div>
       </div>
